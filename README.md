@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @justabhi01
 - 👀 I’m interested  In coding devoloping games and software 
-- 🌱 I’m currently learning devolopment of games and software
+- 🌱 I’m currently learning devolopment of games and software 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach ...
+- 📫 How to reach abhijithpradeep5000@gmail.com
 - 😄 Pronouns: English 
 - ⚡ Fun fact: ...
 
